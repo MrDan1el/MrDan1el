@@ -17,9 +17,9 @@
  
 💻 **Мои проекты:**
 
-[ETL-Pipeline-Last.fm](https://github.com/MrDan1el/ETL-Pipeline-Last.fm) - провел данные через весь путь от API источника до витрин данных для BI системы
+[ETL-Pipeline-Last.fm](https://github.com/MrDan1el/ETL-Pipeline-Last.fm) - провел данные через весь путь - от API источника до витрин данных в BI систему
 
-[Simple-Airflow-ETL](https://github.com/MrDan1el/Simple-Airflow-ETL) - простой ETL на Python и Airflow с применением ООП
+[Simple-Airflow-ETL](https://github.com/MrDan1el/Simple-Airflow-ETL) - простой ETL для загрузки данных в Postgres на Python и Airflow с применением ООП
 
 ---
 
