@@ -23,6 +23,6 @@
 
 ---
 
-🪪 **Мои контакты:**
+🪪 **Для связи:**
 - telegram - **[@hripunov_d](https://t.me/hripunov_d)**
 - email - **md.mrdan1el@gmail.com**
