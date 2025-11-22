@@ -24,5 +24,5 @@
 ---
 
 🪪 **Мои контакты:**
-- telegram - **[@hripunov_d](t.me/hripunov_d)**
+- telegram - **[@hripunov_d](https://t.me/hripunov_d)**
 - email - **md.mrdan1el@gmail.com**
